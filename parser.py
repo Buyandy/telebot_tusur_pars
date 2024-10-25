@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from time import localtime
 
 
 def get_data_tusur() -> dict:
@@ -86,6 +87,32 @@ def get_data_tusur() -> dict:
 
     return DATA
 
+
+def sorted_data_for_message(data: dict) -> str:
+    pass
+
+
+# для отправки сообщении
+def get_data_for_message() -> str:
+    mounts: list[str] = ["янв", "фев", "мар", "апр",
+                         "май", "июн", "июл", "авг",
+                         "сен", "окт", "ноя", "дек"]
+    time_data_str: str = str(localtime().tm_mday)+str(mounts[localtime().tm_mon-1])
+    DATA: dict = get_data_tusur()
+    data_day: dict = DATA[time_data_str]
+
+    # перебор расписании
+    for i in data_day.copy():
+        i = int(i)
+        if data_day[8-i]["data"]["name"] == "":
+            del data_day[8-i]
+        else:
+            break
+
+
+
+
+    return json.dumps(data_day, indent=4, ensure_ascii=False)
 
 
 

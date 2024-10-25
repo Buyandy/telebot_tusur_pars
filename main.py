@@ -16,7 +16,11 @@ async def b_started(message: Message):
 
 @dp.message(Command(commands='pars'))
 async def b_parsing_and_send(message: Message):
-    DATA = parser.get_data_tusur()
+    mess1 = await message.answer(text="Вытаскиваю данные из сайта...")
+    DATA = parser.get_data_for_message()
+    await bot.edit_message_text(text=DATA,
+                                chat_id=message.chat.id,
+                                message_id=mess1.message_id)
 
 
 if __name__ == "__main__":
