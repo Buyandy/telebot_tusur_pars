@@ -7,37 +7,8 @@
         "username": "progKot2222",
         "is_bot": false,
         "language_code": "ru",
+        "id_chat": "2078662401",
         "faculty": "rkf",
         "num_group": "234-2"
-    },
-    "1510999447": {
-        "id": "1510999447",
-        "first_name": "Максим",
-        "last_name": null,
-        "username": "gorolikdap",
-        "is_bot": false,
-        "language_code": "ru",
-        "faculty": "fvs",
-        "num_group": "574-2"
-    },
-    "1152202965": {
-        "id": "1152202965",
-        "first_name": "Ainuur",
-        "last_name": null,
-        "username": "t_ainuur",
-        "is_bot": false,
-        "language_code": "ru",
-        "faculty": "rkf",
-        "num_group": "224-1"
-    },
-    "1767388830": {
-        "id": "1767388830",
-        "first_name": "reneget_",
-        "last_name": null,
-        "username": "RENEGETt",
-        "is_bot": false,
-        "language_code": "ru",
-        "faculty": "fb",
-        "num_group": "724-1"
     }
 }

@@ -94,23 +94,23 @@ def sorted_data_for_message(data: dict) -> str:
 # для отправки сообщении
 def get_data_for_message(faculty: str = "rkf", num_group: str = '234-2') -> str:
     def format_schedule_simple(schedule):
-        times_ls: list[str] = ["08:50 - 10:25",
-                               "10:40 - 12:15",
-                               "13:15 - 14:50",
-                               "15:00 - 16:35",
-                               "16:45 - 18:20",
-                               "18:30 - 20:05",
-                               "20:15 - 21:50"]
+        times_ls: list[str] = ["08:50 \\- 10:25",
+                               "10:40 \\- 12:15",
+                               "13:15 \\- 14:50",
+                               "15:00 \\- 16:35",
+                               "16:45 \\- 18:20",
+                               "18:30 \\- 20:05",
+                               "20:15 \\- 21:50"]
         result = []
         for key, value in schedule.items():
-            time_info = value['time']
             data_info = value['data']
 
+
             if data_info['name']:  # Проверяем, есть ли название предмета
-                entry = (
-                        f"№ {key}: {times_ls[int(key)-1]} | {data_info['name']}\n"
-                        ""
-                )
+                entry = f"""\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+*№ {key}: \\| {data_info['name']}*
+*_Время:_* {times_ls[int(key)-1]} \\| *_Где:_* {data_info['adress']}
+*_Тип:_* {data_info['type']}"""
                 result.append(entry)
             else:
                 entry = (

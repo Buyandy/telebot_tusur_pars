@@ -1,15 +1,21 @@
 import asyncio
 from aiogram import Bot, Dispatcher
-from aiogram.filters import CommandStart, Command
-from aiogram.types import Message
 from aiogram.fsm.storage.memory import MemoryStorage
 
-from DataStore import variab
+
 from DataStore.key_token import token
-from Tools import parser, cust_json
+from Tools import cust_json
 
 from Handlers.greeting import router as greeting_router, storage
 from Handlers.tools import router as tools_router
+
+async def launch_bot(users: dict, bot: Bot) -> None:
+    for i in users.keys():
+        try:
+            await bot.send_message(chat_id=int(i), text="Бот запущен")
+        except:
+            pass
+
 
 async def main() -> None:
     bot = Bot(token=token)
@@ -18,6 +24,7 @@ async def main() -> None:
     dp.include_router(greeting_router)
     dp.include_router(tools_router)
 
+    await launch_bot(cust_json.load_from_file("DataStore/users.json"), bot=bot)
     await dp.start_polling(bot)
 
 

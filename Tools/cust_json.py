@@ -25,7 +25,7 @@ def save_add_from_file(file_dir: str, message_new: Message, users_data_old: dict
         "last_name": message_new.from_user.last_name,
         "username": message_new.from_user.username,
         "is_bot": message_new.from_user.is_bot,
-        "language_code": message_new.from_user.language_code,
+        "language_code": message_new.from_user.language_code
     }
 
     if faculty != "":

@@ -25,7 +25,8 @@ async def b_parsing_and_send(message: Message, bot, state: FSMContext):
             DATA: str = parser.get_data_for_message(faculty=user_data["faculty"], num_group=user_data["num_group"])
             await bot.edit_message_text(text=DATA,
                                         chat_id=message.chat.id,
-                                        message_id=mess1.message_id)
+                                        message_id=mess1.message_id,
+                                        parse_mode="MarkdownV2")
             variab.is_user_get_pars.remove(str(message.from_user.id))
         else:
             await message.answer(text="Ваш запрос еще не обработан!")
