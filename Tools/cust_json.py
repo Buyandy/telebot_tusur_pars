@@ -7,8 +7,14 @@ def load_from_file(file_dir: str) -> dict:
         with open(file_dir, "r", encoding="utf-8") as file:
             user_data: dict = json.load(file)
         return user_data
-    except:
+    except ValueError as e:
+        print(e)
         return {"":""}
+
+def save_in_file(file_dir: str, file_for_save: dict) -> None:
+    with open(file_dir, "w", encoding="utf-8") as file:
+        json.dump(file_for_save, file, ensure_ascii=False, indent=4)
+
 
 def save_add_from_file(file_dir: str, message_new: Message, users_data_old: dict,
                        faculty: str = "", num_group: str = "") -> None:
@@ -39,11 +45,13 @@ def save_add_from_file(file_dir: str, message_new: Message, users_data_old: dict
     with open(file_dir, "w", encoding="utf-8") as file:
         json.dump(users_data_old, file, ensure_ascii=False, indent=4)
 
+def load_all_users() -> dict:
+    users_data: dict = load_from_file("DataStore/users.json")
+    return users_data
 
 def check_user_in_file(message: Message) -> bool:
     users_data: dict = load_from_file("DataStore/users.json")
     for i in users_data.keys():
-        print(i)
         if i == str(message.from_user.id):
             return True
 

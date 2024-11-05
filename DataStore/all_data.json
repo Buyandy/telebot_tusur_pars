@@ -1,0 +1,1683 @@
+{
+    "": "",
+    "https://timetable.tusur.ru/faculties/rkf/groups/234-3": {
+        "04нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "05нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Иностранный язык",
+                    "type": "Практика",
+                    "adress": "рк 127б, рк 303, рк 307",
+                    "prepod": "Войцеховская Н.Ю., Перегудина Е.А., Рубан В.А.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Лабораторная работа",
+                    "adress": "ф 210, ф 232",
+                    "prepod": "Андронов А.А., Бурнашов А.В.",
+                    "note": "12:30-14:05"
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Лабораторная работа",
+                    "adress": "ф 210, ф 232",
+                    "prepod": "Андронов А.А., Бурнашов А.В.",
+                    "note": "14:10-15:45"
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Практика",
+                    "adress": "гк 331",
+                    "prepod": "Медовник А.В.",
+                    "note": "17:00-18:35"
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Самостоятельная работа",
+                    "adress": "гк 331",
+                    "prepod": "Медовник А.В.",
+                    "note": "18:40-20:15"
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "06нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информатика и программирование",
+                    "type": "Лекция",
+                    "adress": "гк 312",
+                    "prepod": "Озеркин Д.В.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Основы российской государственности",
+                    "type": "Лекция",
+                    "adress": "",
+                    "prepod": "Скрипник А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Введение в профессию",
+                    "type": "Практика",
+                    "adress": "",
+                    "prepod": "Андреева М.В.",
+                    "note": "экскурсия НПЦ\"Полюс\""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Проектирование  ИТР",
+                    "type": "Практика",
+                    "adress": "",
+                    "prepod": "Андреева М.В.",
+                    "note": "экскурсия НПЦ\"Полюс\""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "07нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Математика",
+                    "type": "Лекция",
+                    "adress": "ф 121",
+                    "prepod": "Никольская М.М.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Математика",
+                    "type": "Практика",
+                    "adress": "ф 121",
+                    "prepod": "Никольская М.М.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Инженерная и компьютерная графика",
+                    "type": "Практика",
+                    "adress": "рк 502",
+                    "prepod": "Уцын Г.Е.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физическая культура и спорт",
+                    "type": "Практика",
+                    "adress": "",
+                    "prepod": "Головчук О.О.",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "08нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Основы российской государственности",
+                    "type": "Практика",
+                    "adress": "гк 303",
+                    "prepod": "Скрипник А.В.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "История России",
+                    "type": "Практика",
+                    "adress": "гк 413",
+                    "prepod": "Попов Ю.П.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Иностранный язык",
+                    "type": "Практика",
+                    "adress": "рк 127а, рк 127б, рк 131б",
+                    "prepod": "Войцеховская Н.Ю., Перегудина Е.А., Рубан В.А.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "09нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Лекция",
+                    "adress": "гк 331",
+                    "prepod": "Тюньков А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        }
+    },
+    "https://timetable.tusur.ru/faculties/rkf/groups/234-1": {
+        "04нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "05нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Иностранный язык",
+                    "type": "Практика",
+                    "adress": "рк 127б, рк 303, рк 307",
+                    "prepod": "Войцеховская Н.Ю., Перегудина Е.А., Рубан В.А.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Инженерная и компьютерная графика",
+                    "type": "Практика",
+                    "adress": "рк 502",
+                    "prepod": "Уцын Г.Е.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информационные технологии",
+                    "type": "Лекция",
+                    "adress": "гк 403",
+                    "prepod": "Артемов И.Л.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Введение в профессию",
+                    "type": "Лекция",
+                    "adress": "гк 403",
+                    "prepod": "Чернышев А.А.",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "06нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Практика",
+                    "adress": "гк 323",
+                    "prepod": "Тюньков А.В.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Основы российской государственности",
+                    "type": "Лекция",
+                    "adress": "",
+                    "prepod": "Скрипник А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Основы российской государственности",
+                    "type": "Практика",
+                    "adress": "гк 413",
+                    "prepod": "Скрипник А.В.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "07нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Математика",
+                    "type": "Лекция",
+                    "adress": "",
+                    "prepod": "Ермаченков П.А.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Математика",
+                    "type": "Практика",
+                    "adress": "",
+                    "prepod": "Ермаченков П.А.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "История России",
+                    "type": "Практика",
+                    "adress": "рк 326",
+                    "prepod": "Попов Ю.П.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физическая культура и спорт",
+                    "type": "Практика",
+                    "adress": "",
+                    "prepod": "Головчук О.О.",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "08нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информационные технологии",
+                    "type": "Лабораторная работа",
+                    "adress": "гк 302",
+                    "prepod": "Артемов И.Л.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информационные технологии",
+                    "type": "Лабораторная работа",
+                    "adress": "гк 302",
+                    "prepod": "Артемов И.Л.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Иностранный язык",
+                    "type": "Практика",
+                    "adress": "рк 127а, рк 127б, рк 131б",
+                    "prepod": "Войцеховская Н.Ю., Перегудина Е.А., Рубан В.А.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "09нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Практика",
+                    "adress": "гк 331",
+                    "prepod": "Тюньков А.В.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Лекция",
+                    "adress": "гк 331",
+                    "prepod": "Тюньков А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Проектирование  ИТР",
+                    "type": "Практика",
+                    "adress": "рк 415",
+                    "prepod": "Целовальникова А.Е.",
+                    "note": "14:05-15:40"
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        }
+    },
+    "https://timetable.tusur.ru/faculties/rkf/groups/234-2": {
+        "04нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "05нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Иностранный язык",
+                    "type": "Практика",
+                    "adress": "рк 127б, рк 303, рк 307",
+                    "prepod": "Войцеховская Н.Ю., Перегудина Е.А., Рубан В.А.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Практика",
+                    "adress": "ф 229",
+                    "prepod": "Тюньков А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Инженерная и компьютерная графика",
+                    "type": "Практика",
+                    "adress": "рк 502",
+                    "prepod": "Уцын Г.Е.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "06нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информационные технологии",
+                    "type": "Лекция",
+                    "adress": "гк 429",
+                    "prepod": "Тренкаль Е.И.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Основы российской государственности",
+                    "type": "Лекция",
+                    "adress": "",
+                    "prepod": "Скрипник А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Введение в профессию",
+                    "type": "Практика",
+                    "adress": "гк 143",
+                    "prepod": "Тренкаль Е.И.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информационные технологии",
+                    "type": "Лекция",
+                    "adress": "гк 329",
+                    "prepod": "Тренкаль Е.И.",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Проектирование  ИТР",
+                    "type": "Практика",
+                    "adress": "гк 323",
+                    "prepod": "Куприянов Е.А.",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "07нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Математика",
+                    "type": "Лекция",
+                    "adress": "ф 427",
+                    "prepod": "Магазинникова А.Л.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Математика",
+                    "type": "Практика",
+                    "adress": "ф 427",
+                    "prepod": "Магазинникова А.Л.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Самостоятельная работа",
+                    "adress": "ф 210",
+                    "prepod": "Тюньков А.В.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физическая культура и спорт",
+                    "type": "Практика",
+                    "adress": "",
+                    "prepod": "Головчук О.О.",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "08нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "История России",
+                    "type": "Практика",
+                    "adress": "гк 413",
+                    "prepod": "Попов Ю.П.",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Основы российской государственности",
+                    "type": "Практика",
+                    "adress": "гк 303",
+                    "prepod": "Скрипник А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Иностранный язык",
+                    "type": "Практика",
+                    "adress": "рк 127а, рк 127б, рк 131б",
+                    "prepod": "Войцеховская Н.Ю., Перегудина Е.А., Рубан В.А.",
+                    "note": ""
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        },
+        "09нояб": {
+            "1": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "2": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Физика",
+                    "type": "Лекция",
+                    "adress": "гк 331",
+                    "prepod": "Тюньков А.В.",
+                    "note": ""
+                }
+            },
+            "3": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информационные технологии",
+                    "type": "Лабораторная работа",
+                    "adress": "гк 143",
+                    "prepod": "Поздняков В.",
+                    "note": "подгруппа а"
+                }
+            },
+            "4": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "Информационные технологии",
+                    "type": "Лабораторная работа",
+                    "adress": "гк 143",
+                    "prepod": "Поздняков В.",
+                    "note": "подгруппа а"
+                }
+            },
+            "5": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "6": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            },
+            "7": {
+                "time": {
+                    "start_time": "08:50",
+                    "end_time": "10:25"
+                },
+                "data": {
+                    "name": "",
+                    "type": "",
+                    "adress": "",
+                    "prepod": "",
+                    "note": ""
+                }
+            }
+        }
+    }
+}

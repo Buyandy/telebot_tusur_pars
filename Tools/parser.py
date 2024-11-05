@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import json
 from time import localtime
 
+from Tools.all_parser import link_from_user, all_links, update_data_json
+from Tools.cust_json import load_all_users, load_from_file
+
 
 def get_data_tusur(link: str) -> dict:
 
@@ -84,6 +87,10 @@ def get_data_tusur(link: str) -> dict:
         day_block = i.find_all("tbody")[0]
         DATA[day_f(day_block)[1]] = lecsion(day_block)
 
+    DATA_links: dict = {}
+    DATA_links[link] = DATA.copy()
+    update_data_json(DATA_links)
+
     return DATA
 
 
@@ -92,7 +99,8 @@ def sorted_data_for_message(data: dict) -> str:
 
 
 # для отправки сообщении
-def get_data_for_message(faculty: str = "rkf", num_group: str = '234-2') -> str:
+def get_data_for_message(faculty: str = "rkf", num_group: str = '234-2',
+                         mode_json: bool = False) -> str:
     def format_schedule_simple(schedule):
         times_ls: list[str] = ["08:50 \\- 10:25",
                                "10:40 \\- 12:15",
@@ -109,12 +117,12 @@ def get_data_for_message(faculty: str = "rkf", num_group: str = '234-2') -> str:
             if data_info['name']:  # Проверяем, есть ли название предмета
                 entry = f"""\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 *№ {key}: \\| {data_info['name']}*
-*_Время:_* {times_ls[int(key)-1]} \\| *_Где:_* {data_info['adress']}
-*_Тип:_* {data_info['type']}"""
+{times_ls[int(key)-1]} \\|  {data_info['type']}
+{data_info['adress']}"""
                 result.append(entry)
             else:
                 entry = (
-                    f"№{key}: {times_ls[int(key) - 1]} | пустота\n"
+                    f"№{key}: {times_ls[int(key) - 1]} \\| пустота\n"
                     ""
                 )
                 result.append(entry)
@@ -133,8 +141,14 @@ def get_data_for_message(faculty: str = "rkf", num_group: str = '234-2') -> str:
     if localtime().tm_wday == 6:
         return "Сегодня выходной, отдохните как следует!"
 
-    DATA: dict = get_data_tusur(f"https://timetable.tusur.ru/faculties/{faculty}/groups/{num_group}")
-    print(DATA)
+    my_link = f"https://timetable.tusur.ru/faculties/{faculty}/groups/{num_group}"
+    try:
+        datas = load_from_file("DataStore/all_data.json")
+        DATA: dict = datas[my_link]
+    except:
+        DATA: dict = get_data_tusur(my_link)
+
+
     data_day: dict = DATA[time_data_str]
 
 
@@ -142,8 +156,18 @@ def get_data_for_message(faculty: str = "rkf", num_group: str = '234-2') -> str:
     # перебор расписании
     for i in data_day.copy():
         i = int(i)
-        if data_day[8-i]["data"]["name"] == "":
-            del data_day[8-i]
+        bol: bool
+
+        try:
+            bol = data_day[8-i]["data"]["name"] == ""
+        except:
+            bol = data_day[str(8 - i)]["data"]["name"] == ""
+
+        if bol:
+            try:
+                del data_day[8-i]
+            except:
+                del data_day[str(8 - i)]
         else:
             break
 
