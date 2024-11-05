@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efbb4bc-652c-4efa-939d-55a8704a9751" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tools/all_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStore/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStore/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Handlers/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Handlers/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/cust_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/cust_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/all_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/all_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tools/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
