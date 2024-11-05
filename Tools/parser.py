@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 from time import localtime
 
-from Tools.all_parser import link_from_user, all_links, update_data_json
+from Tools.all_parser import update_data_json
 from Tools.cust_json import load_all_users, load_from_file
 
 
