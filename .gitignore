@@ -1,4 +1,5 @@
 
 test.py
 test_main.py
-DataStore/users.json
+*.json
+DataStore/key_token.py
