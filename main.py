@@ -22,6 +22,7 @@ async def launch_bot(users: dict, bot: Bot) -> None:
 
 
 async def main() -> None:
+    # Ниже ставить Token
     bot = Bot(token=token)
     dp = Dispatcher(storage=MemoryStorage())
 
